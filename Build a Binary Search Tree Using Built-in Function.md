@@ -18,8 +18,8 @@ To write a Python program to build a binary search tree using a built-in functio
 ## PROGRAM:
 
 ```
-Reg.No:212223060125
-Name: kesavan.S
+Reg.No:212223060038
+Name: Deepak krishna J
 
 from binarytree import Node
 def _build_bst_from_sorted_values(sorted_values):
